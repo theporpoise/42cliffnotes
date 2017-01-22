@@ -2,6 +2,10 @@ Resources:
 https://github.com/theporpoise/random_file_gen
 42FileChecker
 
+#Headers you will need and why
+fcntl.h  -> to open and read files.
+stdlib -> malloc and free
+
 
 What you will learn:
 Managing a buffer properly presents quite a few challenges.  You have to keep track of where you
@@ -14,24 +18,28 @@ If you decide to tackle Get Next Line using memory, you will quickly learn the i
 b_zero, and making sure that you pass clean memory to your functions.
 
 #Suggested Execution Order
-1. Create a main to take in the file and pass it to your function.
-2. Have your function
+0. Create a test file - just use vim and make a file with a few lines you can test on.
+1. Create a main to take in the file and pass it to your function.i
+* use fcntl.h, go read the man
+* use "open" to open the file set it to a file descriptor.  ex: fd = open(av[1], O_RDONLY)
+* create a while loop that loops until your get next line function returns zero.
+* inside the while loop, print the *line that was updated by your get_next_line function call
+in the top of the while.
 
-#Headers you will need and why
-
+2. Make your GetNextLineFunction
 
 #Architecture
 
 You should be able to solve the basic Get Next Line (no bonus) with 3 or less functions.
 A typical 3 function structure to solve is:
 
-1. Main Get Next Line Function
-* Checks if there is anything from previous call of Get Next Line saved in static buffer
-** Checks to see if this has a newline in it
-* Reads in additional buffer - assuming no newline found so far - and continues reading until
+1. Top Level Get Next Line Function
++ Checks if there is anything from previous call of Get Next Line saved in static buffer
+++ Checks to see if this has a newline in it
++ Reads in additional buffer - assuming no newline found so far - and continues reading until
 a newline is found
-* Calls function (#3) to append all the pieces of the buffer together to the provided pointer.
-* returns the correct integerr to indicate end of file, error, or keep reading.
++ Calls function (#3) to append all the pieces of the buffer together to the provided pointer.
++ returns the correct integerr to indicate end of file, error, or keep reading.
 
 2. A function to find the newline and save the leftover / remaining buffer for the next call
 to get next line.
