@@ -1,9 +1,3 @@
-[Printf](http://www.everettgould.com/42cliffnotes/printf_strat.html)
-
-http://www.everettgould.com/42cliffnotes/printf_strat.html
-
-www.everettgould.com/42cliffnotes/printf_strat.html
-
 <a href="http://www.everettgould.com/42cliffnotes/ft_printf.html">PRINTF Guide 1</a>
 
 <a href="http://www.everettgould.com/42cliffnotes/printf_strat.html">PRINTF Guide 2</a>
