@@ -1,6 +1,6 @@
 # A collection of resources for 42 students to learn more faster
 
-NO SOLUTION CODE PROVIDED - the goal is to enable you to figure out more faster.
+NO SOLUTION CODE PROVIDED - the goal is to enable you to internalize (actually learn) more faster.
 
 Instead, best practices, strategies of attack, major concepts, and testing scripts are linked.
 
