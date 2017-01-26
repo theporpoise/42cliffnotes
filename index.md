@@ -8,8 +8,12 @@
 
 **Shout out to Dan for providing feedback, we'll get a more complete version in a week or so.**
 
-# How to contribute and 
 
+# How to contribute
+# <a href="https://github.com/theporpoise/42cliffnotes">Submit a Pull Request Here</a>
+EVERYTHING is in markdown.  We will consider moving to a wiki format in the future.  
+But for now, markdown is quick, worth leanring if you don't know it, and clean!
+
+# Mission Statement
 ## <a href="http://www.everettgould.com/42cliffnotes/readme.md">Mission Statement</a>
 
-# <a href="https://github.com/theporpoise/42cliffnotes">Contribute with a Pull Request here</a>
