@@ -1,4 +1,6 @@
-## <a href="https://github.com/qst0/ft_libgfx/blob/master/README.md">ft_libgfx (first draft)</a>
+## <a href="http://www.everettgould.com/42cliffnotes/ft_libft.html">ft_libft</a>
+
+## <a href="https://github.com/qst0/ft_libgfx/blob/master/README.html">ft_libgfx (first draft)</a>
   * Feedback needed, if you are starting on your journey for ft_libgfx, please provide feedback to Mason!
 
 ## <a href="http://www.everettgould.com/42cliffnotes/printf_strat.html">PRINTF Guide (In progress)</a>
