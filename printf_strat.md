@@ -1,7 +1,7 @@
 # Online testing site provided:
 
-http://ftprintf.com/
-42filechecker
+* http://ftprintf.com/
+* 42filechecker
 
 # Suggested execution order:
 
