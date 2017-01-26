@@ -21,8 +21,11 @@ And expect the outcome: `Firebolt!` on your console.
 Makefile magic is important for this reason, you will want to change that fireball.
 
 When you do you will have to invoke yet again:
+
 `gcc -Wall -Wextra -Werror lv_1.firebolt.c -o pew`
+
 `gcc -Wall -Wextra -Werror lv_4.lightningbolt.c -o nasty_zap`
+
 `gcc -Wall -Wextra -Werror lv_13.moltenlake.c -o grill`
 
 Every time you change the outcome of your cantrip `./pew` or a particular `./grill` or `./zap`.
