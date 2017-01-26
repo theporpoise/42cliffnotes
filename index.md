@@ -10,6 +10,11 @@ But for now, markdown is quick, worth leanring if you don't know it, and clean!
 
 ## <a href="http://www.everettgould.com/42cliffnotes/ft_libft.html">ft_libft</a>
 
+## <a href="http://www.everettgould.com/42cliffnotes/fillit.html">fillit (coming soon)</a>
+  * Looking for a contributor here if you'd like to write up a guide!
+  
+## <a href="http://www.everettgould.com/42cliffnotes/get_next_line.html">Get Next Line Guide (first draft)</a>
+
 ## <a href="https://github.com/qst0/ft_libgfx/blob/master/README.md">ft_libgfx (first draft)</a>
   * Feedback needed, if you are starting on your journey for ft_libgfx, please provide feedback to Mason!
 
@@ -17,7 +22,7 @@ But for now, markdown is quick, worth leanring if you don't know it, and clean!
 
   * <a href="http://www.everettgould.com/42cliffnotes/ft_printf_debug_funcs_1.html">PRINTF Test Functions for "d" and "i"</a>
 
-## <a href="http://www.everettgould.com/42cliffnotes/get_next_line.html">Get Next Line Guide (first draft)</a>
+
 
   * Shout out to Dan for providing feedback, we'll get a more complete version in a week or so.**
 
