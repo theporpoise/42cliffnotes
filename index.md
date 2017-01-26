@@ -10,7 +10,7 @@ in problem set solutions!  Take a gander at the mission statement if you haven't
 If you finish a project, and want to write up YOUR PERSONAL STRATEGY for tackling the problem, we will post it.
 Creators are welcome here.
 
-EVERYTHING is in markdown.  Markdown is quick, worth leanring if you don't know it, and clean!
+EVERYTHING is in markdown.  Markdown is quick, worth learning if you don't know it, and clean!
 
 
 # 42 Projects
@@ -36,6 +36,13 @@ EVERYTHING is in markdown.  Markdown is quick, worth leanring if you don't know 
 
 ## Makefile Magic
   * Coming soon - looking for a contributor here if you'd like to write up a 1 pager!  sense of humor appreciated!
+  
+## <a href="https://github.com/all-hack/42moonlight">Moonlight</a>
+  *  go here for tons of info about the Moonlight Community including guides on how to do many useful things on the 42 Computers (Download Brew, Use Rails,...)
+  
+## <a href="https://github.com/all-hack/42moonlight/tree/master/resources/Algorithms_Course_Spring_2017">Cadet Algorithms Class</a>
+  *  check this out to learn more about Algorithms from a fellow 42 Cadet
+
 
 ### Online Courses Your Peers have taken and recommend:
   * <a href="https://www.coursera.org/learn/build-a-computer">Nand to Tetris</a>
