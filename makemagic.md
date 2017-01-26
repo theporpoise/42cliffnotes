@@ -2,11 +2,11 @@
 
 ## So why do I need a Makefile?
 
-You might find glory in typing your compiler, flags includes framesworks and whatnots.
+You might find glory in typing your compiler, flags includes frameworks and whatnots.
 
 This would be fine if you were a [scribe](https://en.wikipedia.org/wiki/Scribe). not a [wizard](https://en.wikipedia.org/wiki/Magician_(fantasy)).
 
-You, being a wizard, can preform this magical ritual:
+You, being a wizard, can perform this magical ritual:
 
 ```BASH
 mkdir magic_circle
