@@ -29,5 +29,9 @@ But for now, markdown is quick, worth leanring if you don't know it, and clean!
 
 
 # Additional Resources:
+
+## Makefile Magic
+  * Coming soon - looking for a contributor here if you'd like to write up a 1 pager!  sense of humor appreciated!
+
 ### Online Courses Your Peers have taken and recommend:
   * <a href="https://www.coursera.org/learn/build-a-computer">Nand to Tetris</a>
