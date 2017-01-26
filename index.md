@@ -31,8 +31,8 @@ EVERYTHING is in markdown.  Markdown is quick, worth learning if you don't know 
 
 # Additional Resources:
 
-## Makefile Magic
-  * Coming soon - looking for a contributor here if you'd like to write up a 1 pager!  sense of humor appreciated!
+## [Makefile Magic](makemagic.md)
+  * You're a wizard Harry. Stop being confused about ~~makefiles~~ magic.
   
 ## [Moonlight](https://github.com/all-hack/42moonlight)
   *  go here for tons of info about the Moonlight Community including guides on how to do many useful things on the 42 Computers (Download Brew, Use Rails,...)
